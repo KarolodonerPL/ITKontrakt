@@ -1,5 +1,7 @@
 # ITKontrakt
 Implementation of an Automated test
+----------------------------------------------------------------------------------------------------------------------------------------
+Setup: Eclipse Java Oxygen 
 ------------------------------------------------------------------------------------------------------------------------------------------
 Using WebDriver 3, latest jUnit or TestNG, Java implement the following:
 
@@ -21,7 +23,8 @@ Click on Contact. On opened page click U.S West and check if there is class chan
 On this same page do a mouse hover on different location (take a screenshot before and after performing the action)
 
 -----------------------------------------------------------------------------------------------------------------------------------------
-Infor:
+Info:
+
 Hours spend on task: 1 hour. 
 
 Scenario split in to two test cases: one per browser.
